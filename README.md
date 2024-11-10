@@ -3,9 +3,7 @@
 # Qt-Multimedia-Player
 Turns an example media player from the [Qt documentation](https://doc.qt.io/qtforpython-6/examples/example_qtdemos_mediaplayer.html) into a full-fledged application.
 
-<img src="https://img.shields.io/badge/PySide-6.8.0.2-blue?color=00B16A" alt="PySide 6.8.0.2"/> <img src="https://img.shields.io/badge/Python-3.11.3%20|%203.12.3-blue.svg?color=00B16A" alt="Python 3.11.3 | 3.12.3"/> <img src="https://img.shields.io/badge/Platform-Win32%20|%20Linux-blue?color=00B16A" alt="Platform Win32 | Linux"/>
-
-*Python 3.11.3 is used for Windows, and Python 3.12.3 is used for Linux.*
+<img src="https://img.shields.io/badge/PySide-6.8.0.2-blue?color=00B16A" alt="PySide 6.8.0.2"/> <img src="https://img.shields.io/badge/Python-3.12.3-blue.svg?color=00B16A" alt="Python 3.12.3"/> <img src="https://img.shields.io/badge/Platform-Win32%20|%20Linux-blue?color=00B16A" alt="Platform Win32 | Linux"/>
 
 ## Screenshots
 ![Screenshot_1](https://github.com/deeffest/Qt-Multimedia-Player/raw/main/MediaPlayer/images/Screenshot_1.png)
