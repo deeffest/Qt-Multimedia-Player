@@ -8,32 +8,40 @@ Turns an example media player from the [Qt documentation](https://doc.qt.io/qtfo
 ## Screenshots
 ![Screenshot_1](https://github.com/deeffest/Qt-Multimedia-Player/raw/main/MediaPlayer/images/Screenshot_1.png)
 
-## Quick start
-### Source code:
-1. Clone the repository:
-```bash
-git clone https://github.com/deeffest/Qt-Multimedia-Player.git
-```
-2. Navigate to the project directory:
-```bash
-cd Qt-Multimedia-Player
-```
-3. Install the necessary dependencies:
-```bash
-pip install -r requirements.txt
-```
-4. Start the application:
-```bash
-python mediaplayer.py
-```
+## Quick Start
+### Source Code
+1. **Clone the Repository**  
+   Clone the project repository to your local machine:
+   ```bash
+   git clone https://github.com/deeffest/Qt-Multimedia-Player.git
+   ```
+2. **Navigate to the Project Directory**  
+   Enter the project folder:
+   ```bash
+   cd Qt-Multimedia-Player
+   ```
+3. **Install Dependencies**  
+   Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+4. **Run the Application**  
+   Start the media player:
+   ```bash
+   python mediaplayer.py
+   ```
 
-### Deployments:
-1. Download the archive for your OS from the releases page: [Latest Release](https://github.com/deeffest/Qt-Multimedia-Player/releases).
-2. Unzip the archive to any folder.
-3. Navigate to the folder with the unzipped archive and run the executable file.
+### Deployment
+1. **Download the Latest Release**  
+   Get the latest version for your OS from the [Releases page](https://github.com/deeffest/Qt-Multimedia-Player/releases).
+
+2. **Extract the Archive**  
+   Unzip the downloaded archive to a location of your choice.
+
+3. **Run the Application**  
+   Open the extracted folder, then run the executable file to start the player.
 
 ## See also
-
 - [deeffest/DEEF-Lite-Media-Player](https://github.com/deeffest/DEEF-Lite-Media-Player)：Сross-platform media player. 
 - [deeffest/DEEF-Lite-Image-Viewer](https://github.com/deeffest/DEEF-Lite-Image-Viewer)：Сross-platform image viewer.
 - [deeffest/Youtube-Music-Desktop-Player](https://github.com/deeffest/Youtube-Music-Desktop-Player): Makes the Youtube Music site a desktop app. 
