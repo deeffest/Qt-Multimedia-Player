@@ -49,4 +49,7 @@ Turns an example media player from the [Qt documentation](https://doc.qt.io/qtfo
 ## License
 The Qt Multimedia Player is distributed under the **GPLv3 license**.
 
+## Disclaimer
+This application is unofficial and not affiliated with The Qt Company. It was created using example code provided by The Qt Company, with custom modifications and enhancements, including a modified logo with a play symbol. "Qt" and the "Qt logo" are registered trademarks of The Qt Company.
+
 **We’d love to hear your questions or suggestions!** 💬
