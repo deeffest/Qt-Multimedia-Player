@@ -31,7 +31,7 @@ Turns an example media player from the [Qt documentation](https://doc.qt.io/qtfo
    python mediaplayer.py
    ```
 
-### Deployment
+### Ready-to-Use Builds
 1. **Download the Latest Release**  
    Get the latest version for your OS from the [Releases page](https://github.com/deeffest/Qt-Multimedia-Player/releases).
 
