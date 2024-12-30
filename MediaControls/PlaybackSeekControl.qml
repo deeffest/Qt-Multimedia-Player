@@ -19,10 +19,10 @@ Item {
     property alias hideSeeker: hideSeekerAnim
 
     function getTime(time : int) : string {
-        const h = Math.floor(time / 3600000).toString()
-        const m = Math.floor(time / 60000).toString()
-        const s = Math.floor(time / 1000 - m * 60).toString()
-        return `${h.padStart(2,'0')}:${m.padStart(2,'0')}:${s.padStart(2, '0')}`
+        const h = Math.floor(time / 3600000).toString();
+        const m = Math.floor((time % 3600000) / 60000).toString();
+        const s = Math.floor((time % 60000) / 1000).toString();
+        return `${h.padStart(2,'0')}:${m.padStart(2,'0')}:${s.padStart(2,'0')}`;
     }
 
     RowLayout {

@@ -80,7 +80,7 @@ if __name__ == "__main__":
         "selectedNameFilter": selectedNameFilter})
     engine.loadFromModule("MediaPlayer", "Main")
 
-    icon_path = app_dir / "MediaPlayer" / "icons" / "Icon.ico"
+    icon_path = app_dir / "MediaPlayer" / "icons" / "icon.ico"
     app.setWindowIcon(QIcon(os.fspath(icon_path)))
 
     if not engine.rootObjects():

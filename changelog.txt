@@ -1,0 +1,4 @@
+v1.0.1 is Here! (31.12.2024)
+- Fixed incorrect display of current and total playback time.
+- Qt (PySide6) updated to 6.8.1
+- Other minor fixes and improvements.

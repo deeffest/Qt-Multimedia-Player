@@ -1,12 +1,12 @@
-![Icon](https://github.com/deeffest/Qt-Multimedia-Player/raw/main/MediaPlayer/icons/Logo@128x128.png)
+![Icon](MediaPlayer/icons/logo@128x128.png)
 
-# Qt-Multimedia-Player
+# Qt Multimedia Player
 Turns an example media player from the [Qt documentation](https://doc.qt.io/qtforpython-6/examples/example_qtdemos_mediaplayer.html) into a full-fledged application.
 
-<img src="https://img.shields.io/badge/PySide-6.8.0.2-blue?color=00B16A" alt="PySide 6.8.0.2"/> <img src="https://img.shields.io/badge/Python-3.12.3-blue.svg?color=00B16A" alt="Python 3.12.3"/> <img src="https://img.shields.io/badge/Platform-Win32%20|%20Linux-blue?color=00B16A" alt="Platform Win32 | Linux"/>
+<img src="https://img.shields.io/badge/PySide-6.8.1-blue?color=00B16A" alt="PySide 6.8.1"/> <img src="https://img.shields.io/badge/Python-3.12.3-blue.svg?color=00B16A" alt="Python 3.12.3"/> <img src="https://img.shields.io/badge/Platform-Win32%20|%20Linux-blue?color=00B16A" alt="Platform Win32 | Linux"/>
 
 ## Screenshots
-![Screenshot_1](https://github.com/deeffest/Qt-Multimedia-Player/raw/main/MediaPlayer/images/Screenshot_1.png)
+![Screenshot_1](MediaPlayer/images/main_window.png)
 
 ## Quick Start
 ### Source Code
@@ -26,20 +26,20 @@ Turns an example media player from the [Qt documentation](https://doc.qt.io/qtfo
    pip install -r requirements.txt
    ```
 4. **Run the Application**  
-   Start the media player:
+   Start the QMPlayer:
    ```bash
-   python mediaplayer.py
+   python QMPlayer.py
    ```
 
 ### Ready-to-Use Builds
 1. **Download the Latest Release**  
-   Get the latest version for your OS from the [Releases page](https://github.com/deeffest/Qt-Multimedia-Player/releases).
+   Get the latest version for your OS from the [Releases page](https://github.com/deeffest/Qt-Multimedia-Player/releases/latest).
 
 2. **Extract the Archive**  
    Unzip the downloaded archive to a location of your choice.
 
 3. **Run the Application**  
-   Open the extracted folder, then run the executable file to start the player.
+   Open the extracted folder, then run the executable file to start the QMPlayer.
 
 ## See also
 - [deeffest/DEEF-Lite-Media-Player](https://github.com/deeffest/DEEF-Lite-Media-Player)：Сross-platform media player. 
