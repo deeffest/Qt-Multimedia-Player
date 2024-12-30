@@ -44,7 +44,7 @@ Turns an example media player from the [Qt documentation](https://doc.qt.io/qtfo
 ## See also
 - [deeffest/DEEF-Lite-Media-Player](https://github.com/deeffest/DEEF-Lite-Media-Player)：Сross-platform media player. 
 - [deeffest/DEEF-Lite-Image-Viewer](https://github.com/deeffest/DEEF-Lite-Image-Viewer)：Сross-platform image viewer.
-- [deeffest/Youtube-Music-Desktop-Player](https://github.com/deeffest/Youtube-Music-Desktop-Player): Makes the Youtube Music site a desktop app. 
+- [deeffest/Youtube-Music-Desktop-Player](https://github.com/deeffest/Youtube-Music-Desktop-Player): Turns the YT Music site into a desktop application.
 
 ## License
 The Qt Multimedia Player is distributed under the **GPLv3 license**.
